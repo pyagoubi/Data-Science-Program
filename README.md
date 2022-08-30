@@ -1,1 +1,1 @@
-# Data-Science-Program
+# MIT Applied Data-Science-Program
